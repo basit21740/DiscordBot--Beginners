@@ -8,4 +8,4 @@ client.on('ready', () => {
 });
 
 //make sure this line is the last line
-client.login(process.env.OTcyNTcwMjYzMTQzMTkwNTU4.Yna-pA.-7KXJlUKcrFARRlrYpn-4SFvH1Y); //login bot using token
+client.login(process.env.TOKEN); //login bot using token
